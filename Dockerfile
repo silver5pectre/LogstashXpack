@@ -1,4 +1,4 @@
-FROM docker.elastic.co/logstash/logstash:6.4.2
+FROM docker.elastic.co/logstash/logstash:6.4.3
 
 MAINTAINER Justin Henderson justin@hasecuritysolutions.com
 
